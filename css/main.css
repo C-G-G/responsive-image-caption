@@ -36,6 +36,7 @@ h2, p {
 
 h2 {
   font-family: "Denk One", sans-serif;
+  margin-top: 0;
 }
 
 figure {
@@ -44,6 +45,7 @@ figure {
 
 figcaption {
   background-color: #e2e2e2;
+  padding: 1em;
 }
 
 /*
